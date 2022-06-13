@@ -1,4 +1,3 @@
-# HTML-CSS
 <a class="amazon-link"   href="https://www.amazon.com/">
     Back to Amazon
 </a>
@@ -51,7 +50,8 @@
     }
 </style>
 
-}
+
+
 
 <style>
     .buy-now{
@@ -65,10 +65,10 @@
        margin-right: 10px;
        cursor: pointer;
     }
-    .buy-now:hover {
+    .buy-now:hover{
         background-color:rgb(210, 137, 0) ;
     }
-    .buy-now:active { 
+    .buy-now:active{
         opacity: 0.5;
     }
 </style>
